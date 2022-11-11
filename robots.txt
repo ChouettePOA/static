@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://static.chouette.net.br/sitemap.xml
